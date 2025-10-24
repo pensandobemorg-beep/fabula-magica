@@ -1,0 +1,7 @@
+{
+  "name": "Fábula Mágica IA",
+  "description": "Um aplicativo interativo de contação de histórias para crianças. Ele gera histórias originais com ilustrações exclusivas e as lê em voz alta, criando uma nova aventura a cada página.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
